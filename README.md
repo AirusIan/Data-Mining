@@ -68,6 +68,7 @@
 
 # HW3
 1.Perform equal-width with ten bins, equal-frequency with ten bins, and the entropy-based discretization on the continuous attributes
+
 2.For each discretization method, perform the selective naïve Bayes to find an attribute subset for classification
 
 # HW4
